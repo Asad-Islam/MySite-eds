@@ -3,7 +3,9 @@ Your project's description...
 
 ## Environments
 - Preview: https://main--{repo}--{owner}.aem.page/
+  - https://main--mysite-eds--asad-islam.aem.page/
 - Live: https://main--{repo}--{owner}.aem.live/
+  - https://main--mysite-eds--asad-islam.aem.live/
 
 ## Documentation
 
